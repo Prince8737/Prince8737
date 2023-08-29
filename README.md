@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **My portfolio**
 
-- 🌱 I’m currently learning **Back-end Web development**
+- 🌱 I’m currently learning **Web development**
 
 - 💬 Ask me about **Front end, C, Python, Spline**
 
