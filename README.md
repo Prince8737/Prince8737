@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince8737&label=Profile%20views&color=0e75b6&style=flat" alt="prince8737" /> </p>
 
-- 🔭 I’m currently working on **My portfolio**
+- 🔭 I’m currently working on **MERN**
 
 - 🌱 I’m currently learning **Web development**
 
-- 💬 Ask me about **Front end, C, Python, Spline**
+- 💬 Ask me about **Front end, C++, Spline**
 
 - 📫 How to reach me **prince004chaudhary@gmail.com**
 
